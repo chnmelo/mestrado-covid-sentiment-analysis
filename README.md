@@ -34,3 +34,7 @@
 - [KAGGLE]()
 
 ### Graficos gerados a partir dos modelos treinados.
+
+### Dataset produzido pelo modelo final de comitês sobre tweets coletados de 01/01/2020 até 31/12/2021
+
+### Graficos produzidos através dos dados rotulados com comitês treinados.
