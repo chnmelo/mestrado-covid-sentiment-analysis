@@ -37,4 +37,6 @@
 
 ### Dataset produzido pelo modelo final de comitês sobre tweets coletados de 01/01/2020 até 31/12/2021
 
+- [Conjunto de dados coletados e utilizados para treinamo de modelos](https://www.kaggle.com/datasets/melochn/mestrado-cinufpe-sentiment-analysis-covid19)
+
 ### Graficos produzidos através dos dados rotulados com comitês treinados.
